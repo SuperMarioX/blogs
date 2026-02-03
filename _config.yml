@@ -1,6 +1,6 @@
 markdown: redcarpet
 permalink: /:title.html
-url: /blogs
+baseurl: /blogs
 lsi: true
 pygments: true
 safe: true
