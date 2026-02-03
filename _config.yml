@@ -1,6 +1,6 @@
 markdown: redcarpet
 permalink: /:title.html
-url: http://blog.ixxoo.me
+url: /blogs
 lsi: true
 pygments: true
 safe: true
